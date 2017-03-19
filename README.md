@@ -6,4 +6,4 @@ https://www.cs.umd.edu/class/spring2017/cmsc434/
  * Daniil Zadorozhnyy
  * Isabella Seeman
  * Nathan Baihly
- * Kyle Delancy
+ * Kyle DeLancey
